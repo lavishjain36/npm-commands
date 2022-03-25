@@ -1,0 +1,79 @@
+WHat is Node?
+NPM=>
+NODE package Manager
+Dependenices
+Package=>
+
+node modules
+
+
+Module=>
+npm install -g npm@version
+
+
+Package json init
+Node.js
+
+npm init
+
+yarn init
+
+express=>
+npm install express
+
+body-parse=>middleware
+
+nodemon=>restart or reload your application
+automatically upon any changes in our app
+
+
+npm i express 
+
+
+npm update
+
+To update npm 
+
+npm install npm@latest -g
+
+
+How to use External 3rd Party Packages?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
